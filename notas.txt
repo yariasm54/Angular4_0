@@ -23,3 +23,8 @@
 
   Nuevo proyecto
     git push -u origin master
+      Montar el servidor, dentro de la carpeta portafolio
+    ng server -o
+      Generar un nuevo componente (Header y Footer)
+      ng g c componets/header
+      ng g c componets/footer
