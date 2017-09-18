@@ -3,6 +3,12 @@
   Node
   angular CLI
   Git
+    git config --global user.name "Yeison Arias"
+    git config --global user.email "yariasm@gmail.com"
+      Alias
+    git config --global alias.lg "log --oneline --decorate --all --graph"
+    git config --global alias.s "status -s"
+
   Atom
     angular2-typescript-snippets
     atom-typescript
@@ -14,4 +20,6 @@
     linter-ui-default
     minimap
     platformio-ide-terminal
-  
+
+  Nuevo proyecto
+    git push -u origin master
