@@ -1,0 +1,17 @@
+//Instalacion inicial
+  Google Chrome
+  Node
+  angular CLI
+  Git
+  Atom
+    angular2-typescript-snippets
+    atom-typescript
+    fileicons
+    autocomplete-js-import
+    color-picker
+    emmet
+    linter
+    linter-ui-default
+    minimap
+    platformio-ide-terminal
+  
